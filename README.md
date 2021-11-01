@@ -1,3 +1,3 @@
 # nodejs
-simplenodejs or express programs
+simple nodejs or express programs
 Started learning nodejs and express framework
